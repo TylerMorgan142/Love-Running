@@ -287,5 +287,28 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
-    
+
+    #cover-text {
+        left: 0;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading h2 {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
